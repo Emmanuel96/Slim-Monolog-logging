@@ -1,0 +1,7 @@
+[2018-09-17 10:05:24] my_logger.INFO: This is a big moment you know [] []
+[2018-09-17 11:47:05] my_logger.INFO: This is a big moment you know [] []
+[2018-09-17 11:47:34] my_logger.INFO: This is a big moment you know [] []
+[2018-09-17 11:48:05] my_logger.INFO: This is a big moment you know [] []
+[2018-09-17 11:51:18] my_logger.INFO: I can now use the monolog logger [] []
+[2018-09-17 11:51:51] my_logger.INFO: I can now use the monolog logger [] []
+[2018-09-17 12:02:12] my_logger.INFO: I can now use the monolog logger [] []
