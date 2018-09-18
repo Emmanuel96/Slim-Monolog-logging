@@ -14,6 +14,6 @@ class HomeController
     {
         $this->container->logger->addInfo("Congrats, you've got it");
 
-        return $response;
+        return $response->getBody()->write("Check your App/log file");
     }
 }
