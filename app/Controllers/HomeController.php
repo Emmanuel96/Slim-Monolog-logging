@@ -12,7 +12,7 @@ class HomeController
 
     public function index($request, $response)
     {
-        $this->container->logger->addInfo('I can now use the monolog logger');
+        $this->container->logger->addInfo("Congrats, you've got it");
 
         return $response;
     }
